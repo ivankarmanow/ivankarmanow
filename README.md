@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://ivan.karmanow.ru" target="_blank">Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Junior Backend Python Developer from Russia 🇷🇺</h2>
+<h2 align="center">Backend Python Developer</h2>
 <div align="center">
 <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
 <span><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></span>
@@ -11,8 +11,7 @@
   <ul>
     <li>❤️ I love Python (for 5 years now!)</li>
     <li>🥰 I am interested in designing application architecture</li>
-    <li>📖 I'm studying Vue.js right now</li>
-    <li>🧑‍💻 I support the work of a large quest site</li>
+    <li>📖 I'm studying Golang</li>
     <li>🧒 I teach programming to children</li>
     <li>💬 and of course I am considering job offers 😉</li>
   </ul>
